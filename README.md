@@ -133,7 +133,7 @@
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Những thay đổi đó sẽ lần lượt gây ra những thay đổi trong lớp tiếp theo và sau đó là lớp tiếp theo và cứ tiếp tục như vậy để gây ra thay đổi trong lớp cuối cùng và sau đó trong hàm chi phí:
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116347763-06661680-a817-11eb-8179-80133db35872.png" width="50%"/>
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116347988-71afe880-a817-11eb-9004-acce289f1169.PNG" width="100%"/>
-<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116348132-b50a5700-a817-11eb-959f-7b44ffbfe1d0.png" width="50%"/>
+<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116348132-b50a5700-a817-11eb-959f-7b44ffbfe1d0.png" width="100%"/>
 
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116348243-ee42c700-a817-11eb-8476-651d5c3f9d94.PNG" width="100%"/>
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116348334-21855600-a818-11eb-9a2b-1a45e7b0356d.PNG" width="100%"/>
@@ -155,6 +155,8 @@
   
 ##  TÀI LIỆU THAM KHẢO
 &nbsp;&nbsp;&nbsp;&nbsp;1.	http://neuralnetworksanddeeplearning.com/chap2.html
+
 &nbsp;&nbsp;&nbsp;&nbsp;2.	https://www.kaggle.com/romaintha/an-introduction-to-backpropagation
+
 &nbsp;&nbsp;&nbsp;&nbsp;3.	https://123doc.net/document/706333-mang-noron-truyen-thang-va-thuat-toan-lan-truyen-nguoc.htm
 
