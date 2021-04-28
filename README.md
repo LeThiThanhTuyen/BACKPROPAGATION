@@ -42,7 +42,7 @@
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Nghĩa là, vectơ hóa f chỉ bình phương mọi phần tử của vectơ.
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Với những ký hiệu này, phương trình có thể được viết lại ở dạng vectơ đẹp và nhỏ gọn
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116342315-95b9fc80-a80c-11eb-9973-0c092f7bf252.png" width="50%"/>
-<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116343042-db2af980-a80d-11eb-950b-d11c4e822885.PNG" width="50%"/>
+<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116343042-db2af980-a80d-11eb-950b-d11c4e822885.PNG" width=100%"/>
 
 ### 4	Hai giả định về hàm chi phí ( C )
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Mục tiêu của lan truyền ngược là tính toán các đạo hàm riêng ∂C/ ∂w và ∂C/ ∂b của hàm chi phí C đối với bất kỳ trọng lượng nào w hoặc thiên vị b trong mạng. Để lan truyền ngược hoạt động, hai giả thiết chính về dạng của hàm chi phí. Tuy nhiên, trước khi nêu những giả định đó, nên lưu ý đến một hàm chi phí mẫu. Trong ký hiệu của phần cuối cùng, chi phí bậc hai có dạng
