@@ -36,7 +36,7 @@
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116342301-918ddf00-a80c-11eb-8fd0-320b7fa2a3e7.png" width="50%"/>
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116343614-f9ddc000-a80e-11eb-920c-bb4875e98464.PNG" width="100%"/>
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116342305-92bf0c00-a80c-11eb-9f66-deef82857c25.png" width="50%"/>
-<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116342859-838c8e00-a80d-11eb-88ca-c8efbe9dded6.PNG" width="50%"/>
+<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116342859-838c8e00-a80d-11eb-88ca-c8efbe9dded6.PNG" width="100%"/>
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Áp dụng một hàm chẳng hạn như σ cho mọi phần tử trong một vectơ v. Sử dụng ký hiệu rõ ràng σ ( v ) để biểu thị loại ứng dụng nguyên tố của một hàm. Đó là các thành phần của σ ( v ) chỉ là σ( v)j= σ(vj). Ví dụ, nếu có hàm f( x ) x2 thì hình thức vectơ hóa của f có tác dụng
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116342310-93f03900-a80c-11eb-85c7-295e347e1581.png" width="50%"/>
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Nghĩa là, vectơ hóa f chỉ bình phương mọi phần tử của vectơ.
