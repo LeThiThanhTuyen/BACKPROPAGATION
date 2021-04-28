@@ -10,7 +10,7 @@
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Một mạng truyền thẳng nhiều lớp bao gồm một lớp vào, một lớp ra và một hoặc nhiều lớp ẩn. Các nơron đầu vào thực chất không phải các nơron theo đúng nghĩa, bởi lẽ chúng không thực hiện bất kỳ một tính toán nào trên dữ liệu vào, đơn giản nó chỉ tiếp nhận các dữ liệu vào và chuyển cho các lớp kế tiếp. Các nơron ở lớp ẩn và lớp ra mới thực sự thực hiện các tính toán, kết quả được định dạng bởi hàm đầu ra (hàm chuyển). Cụm từ “truyền thẳng” (feed forward) (không phải là trái nghĩa của lan truyền ngược) liên quan đến một thực tế là tất cả các nơron chỉ có thể được kết nối với nhau theo một hướng: tới một hay nhiều các nơron khác trong lớp kế tiếp (loại trừ các nơron ở lớp ra)
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116341718-9900b880-a80b-11eb-800d-42d112e96984.png" width="50%"/>
 
-<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116349332-f4d23e00-a819-11eb-92ff-bdb2f1170892.PNG" width="50%"/>
+<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116349332-f4d23e00-a819-11eb-92ff-bdb2f1170892.PNG" width="100%"/>
   
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Một mạng truyền thẳng là một mạng lưới thần kinh nhân tạo trong đó các kết nối giữa các nút làm không tạo chu kỳ. Như vậy, nó khác với hậu duệ của nó: Mạng nơ-tron tái phát.
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Mạng nơ-tron truyền tiếp là loại mạng nơ-ron nhân tạo đầu tiên và đơn giản nhất được phát minh ra. Trong mạng này, thông tin chỉ di chuyển theo một hướng chuyển tiếp từ các nút đầu vào, qua các nút ẩn (nếu có) và đến các nút đầu ra. Không có chu kỳ hoặc vòng lặp trong mạng. 
